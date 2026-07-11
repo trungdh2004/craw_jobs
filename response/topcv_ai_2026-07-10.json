@@ -1,0 +1,246 @@
+[
+  {
+    "jobId": "1839478",
+    "source": "topcv",
+    "title": "Lập Trình Viên Vue.Js",
+    "company": "CÔNG TY TNHH EAERA VIỆT NAM",
+    "wage": "600 - 900 USD",
+    "experience": "2 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/lap-trinh-vien-vue-js/1839478.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783570168",
+    "matchPercentage": 85,
+    "summary": "Đỗ Hữu Trung là ứng viên phù hợp tốt cho vị trí này vì có 2+ năm kinh nghiệm với Vue.js, React và TypeScript - đúng yêu cầu chính của vị trí. Tuy nhiên, ứng viên cần chứng minh kinh nghiệm chuyên sâu với Vue ecosystem (Vuex, Vue Router) và infrastructure Linux.",
+    "strengths": [
+      "Kinh nghiệm 2+ năm với Vue.js và React - phù hợp yêu cầu 2 năm kinh nghiệm",
+      "Thành thạo TypeScript - đây là nice-to-have mà nhiều ứng viên khác có thể thiếu",
+      "Kỹ năng HTML5, CSS3, Responsive Design - đúng yêu cầu bắt buộc",
+      "Kinh nghiệm REST API - phù hợp với yêu cầu về API integration",
+      "Nắm vững Git - yêu cầu bắt buộc",
+      "Khu vực Hà Nội - đúng vị trí làm việc"
+    ],
+    "concerns": [
+      "Không có kinh nghiệm cụ thể với Vuex và Vue Router - yêu cầu bắt buộc của vị trí",
+      "Chưa có kinh nghiệm làm việc trên Linux infrastructure",
+      "Không đề cập kinh nghiệm Mobile App development (nice-to-have)",
+      "Không có kinh nghiệm Nuxt 3 hoặc SSR/SSG (nice-to-have)",
+      "Không mention kinh nghiệm SASS/SCSS cụ thể"
+    ],
+    "analyzedAt": 1783665820922
+  },
+  {
+    "jobId": "2228404",
+    "source": "topcv",
+    "title": "ReactJS/React Native Developer Intern Hỗ Trợ Upto 5 Triệu",
+    "company": "Công ty cổ phần kinh doanh công nghệ Open Techiz",
+    "wage": "Tới 5 triệu",
+    "experience": "Dưới 1 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/reactjs-react-native-developer-intern-ho-tro-upto-5-trieu/2228404.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783570168",
+    "matchPercentage": 45,
+    "summary": "Kỹ năng của ứng viên phù hợp rất tốt với yêu cầu công việc, nhưng đây là vị trí thực tập với mức lương thấp hơn nhiều so với kỳ vọng và thấp hơn mức lương thị trường cho người có 2 năm kinh nghiệm.",
+    "strengths": [
+      "Kỹ năng JavaScript, TypeScript, React, Node.js, REST API, HTML/CSS, Git phù hợp hoàn toàn với yêu cầu",
+      "Có 2+ năm kinh nghiệm React, vượt xa yêu cầu 'dưới 1 năm' của vị trí",
+      "Vị trí tại Hà Nội phù hợp với địa điểm ưu tiên",
+      "Có nền tảng giáo dục Đại học CNTT đúng chuyên ngành"
+    ],
+    "concerns": [
+      "Vị trí thực tập với lương tối đa 5 triệu, trong khi ứng viên kỳ vọng 15-30 triệu - chênh lệch rất lớn",
+      "Ứng viên có 2 năm kinh nghiệm nhưng vị trí dành cho người chưa có kinh nghiệm hoặc mới tốt nghiệp - overqualified",
+      "Thiếu kinh nghiệm React Native và Next.js so với mô tả công việc",
+      "Mức lương thực tập không phù hợp với trình độ và kinh nghiệm hiện tại của ứng viên"
+    ],
+    "analyzedAt": 1783665837835
+  },
+  {
+    "jobId": "2187146",
+    "source": "topcv",
+    "title": "Mobile Developer (React Native/Flutter)",
+    "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ SAVA META",
+    "wage": "Thoả thuận",
+    "experience": "Trên 5 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/mobile-developer-react-native-flutter/2187146.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783570168",
+    "matchPercentage": 28,
+    "summary": "This job is a poor match as it requires a Mobile Developer with 5+ years of React Native/Flutter experience, while the candidate is a Frontend Developer with only 2+ years in React/Vue.js web development.",
+    "strengths": [
+      "Location matches - position is in Hà Nội",
+      "Strong React and TypeScript foundation could transfer to React Native",
+      "Relevant education in Computer Science/IT",
+      "Responsive design experience aligns with cross-platform development needs"
+    ],
+    "concerns": [
+      "Requires 5+ years experience, candidate only has 2+ years",
+      "No mobile development experience (React Native/Flutter) - core requirement",
+      "No published apps on App Store or Google Play",
+      "No AI/LLM integration experience which is a key requirement",
+      "Role is primarily mobile-focused, candidate's background is web frontend only",
+      "No CI/CD or mobile DevOps experience mentioned"
+    ],
+    "analyzedAt": 1783665859804
+  },
+  {
+    "jobId": "2228624",
+    "source": "topcv",
+    "title": "Chuyên Viên Phát Triển Frontend",
+    "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ UPBASE",
+    "wage": "15 - 30 triệu",
+    "experience": "2 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/chuyen-vien-phat-trien-frontend/2228624.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783570168",
+    "matchPercentage": 88,
+    "summary": "This job is a strong match for the candidate — core requirements (React, 2+ years experience, Hà Nội location, salary range) align well. The main gap is lack of explicit Next.js and GraphQL experience, which are part of the company's tech stack.",
+    "strengths": [
+      "React experience meets the 1+ year requirement with 2+ years of hands-on work",
+      "Salary expectation (15-30 triệu) perfectly overlaps with the offered range",
+      "Location preference (Hà Nội) matches the job's Thanh Xuân office",
+      "Computer Science degree fulfills the education requirement",
+      "Frontend-focused career with TypeScript, responsive design, and API integration experience aligns well with the role",
+      "Experience with Agile/Scrum processes is common and transferable"
+    ],
+    "concerns": [
+      "No explicit Next.js experience listed — company uses NextJS as primary frontend framework",
+      "GraphQL is part of the tech stack but candidate only lists REST API experience",
+      "No mention of ReactNative experience, which is in the company's tech stack",
+      "Unit/functional testing experience not mentioned in the profile",
+      "English technical document reading ability not confirmed"
+    ],
+    "analyzedAt": 1783665875090
+  },
+  {
+    "jobId": "2230841",
+    "source": "topcv",
+    "title": "Lead Fullstack Developer (Java, ReactJS)",
+    "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ SICIX",
+    "wage": "25 - 35 triệu",
+    "experience": "3 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/lead-fullstack-developer-java-reactjs/2230841.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783613868",
+    "matchPercentage": 35,
+    "summary": "Đây là vị trí Lead Fullstack Developer yêu cầu Java Spring Boot làm backend chính, trong khi ứng viên chỉ tập trung vào Frontend (React/Vue) và chưa có kinh nghiệm với Java hoặc Spring Boot. Mức lương và địa điểm phù hợp, nhưng khoảng cách về vai trò và kỹ năng backend là rào cản lớn.",
+    "strengths": [
+      "Kinh nghiệm React.js phù hợp với yêu cầu frontend của vị trí",
+      "Thành thạo TypeScript, REST API, Git - đúng yêu cầu công việc",
+      "Địa điểm làm việc tại Hà Nội phù hợp",
+      "Mức lương đề xuất 25-35 triệu nằm trong khoảng ưa thích của ứng viên",
+      "Có kiến thức về SPA và tích hợp API bên thứ 3"
+    ],
+    "concerns": [
+      "Không có kinh nghiệm Java/Spring Boot - yêu cầu cốt lõi của vị trí",
+      "Chưa có kinh nghiệm thiết kế hệ thống CSDL SQL",
+      "Chỉ có 2 năm kinh nghiệm, yêu cầu tối thiểu 3 năm",
+      "Vị trí là Lead Developer nhưng ứng viên chưa có kinh nghiệm quản lý team",
+      "Chưa có kinh nghiệm với UI framework như PrimeReact hoặc Ant Design",
+      "Thiếu kinh nghiệm với Maven/Gradle - công cụ quản lý dependency Java"
+    ],
+    "analyzedAt": 1783665894114
+  },
+  {
+    "jobId": "2231402",
+    "source": "topcv",
+    "title": "Senior FrontEnd Developer",
+    "company": "Công Ty Cổ Phần Edulive Toàn Cầu",
+    "wage": "15 - 20 triệu",
+    "experience": "3 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/senior-frontend-developer/2231402.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783613868",
+    "matchPercentage": 75,
+    "summary": "Công việc phù hợp tốt với nền tảng JavaScript/React của ứng viên, nhưng thiếu kinh nghiệm Next.js và chưa đủ 3 năm kinh nghiệm theo yêu cầu.",
+    "strengths": [
+      "Kinh nghiệm mạnh về JavaScript và ReactJS - phù hợp trực tiếp với yêu cầu chính",
+      "Trình độ HTML/CSS tốt, có kinh nghiệm Responsive Design",
+      "Bằng cấp Đại học CNTT phù hợp yêu cầu",
+      "Vị trí tại Hà Nội khớp với ưu tiên",
+      "Mức lương 15-20 triệu nằm trong khoảng ưu tiên 15-30 triệu",
+      "Có kinh nghiệm làm việc với REST API"
+    ],
+    "concerns": [
+      "Chưa có kinh nghiệm Next.js - yêu cầu bắt buộc trong JD",
+      "Kinh nghiệm 2+ năm chưa đạt yêu cầu 3 năm",
+      "Chưa có kinh nghiệm phát triển game giáo dục hoặc drag-and-drop programming",
+      "Chuyên môn sư phạm là lợi thế nhưng ứng viên không có nền tảng này",
+      "Mức lương offer ở mức thấp nhất trong khoảng ưu tiên của ứng viên"
+    ],
+    "analyzedAt": 1783665907225
+  },
+  {
+    "jobId": "2230290",
+    "source": "topcv",
+    "title": "Middle Frontend Developer (ReactJS/NextJS)",
+    "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ SAVA META",
+    "wage": "Tới 25 triệu",
+    "experience": "2 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/middle-frontend-developer-reactjs-nextjs/2230290.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783613868",
+    "matchPercentage": 82,
+    "summary": "This is a strong match — the candidate's React/TypeScript experience, frontend focus, and Hà Nội location align well with the role's requirements and salary range.",
+    "strengths": [
+      "React/Next.js role matches candidate's React expertise and 2+ years frontend experience",
+      "Salary range up to 25 triệu fits within candidate's preferred 15-30 triệu",
+      "Location in Hà Nội matches preferred city",
+      "REST API integration experience directly aligns with job requirements",
+      "Responsive design and frontend toolchain skills are core requirements",
+      "University CS degree matches educational requirement",
+      "State management experience (Redux/Zustand) and SPA development are listed requirements"
+    ],
+    "concerns": [
+      "Next.js not explicitly listed in candidate's skills — only React and Vue.js mentioned",
+      "No AI interface or streaming experience mentioned (preferred, not required)",
+      "No explicit Figma-to-code or Design System experience listed",
+      "No WebSocket/SSE or real-time application experience noted",
+      "Git is listed but CI/CD pipeline experience not confirmed",
+      "No mention of portfolio, GitHub, or production-shipped products as principal frontend dev"
+    ],
+    "analyzedAt": 1783665916401
+  },
+  {
+    "jobId": "2232259",
+    "source": "topcv",
+    "title": "Frontend Typescript (Angular)",
+    "company": "Công ty TNHH Giải pháp Phân tích dữ liệu Insight Data",
+    "wage": "Thoả thuận",
+    "experience": "1 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/frontend-typescript-angular/2232259.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783663590",
+    "matchPercentage": 55,
+    "summary": "Strong foundation in frontend fundamentals (TypeScript, HTML5, CSS3, REST API) but lacks Angular experience, which is the core requirement of this role.",
+    "strengths": [
+      "TypeScript proficiency matches job requirement",
+      "2+ years experience meets the 1-3 year requirement",
+      "Strong HTML5, CSS3, and REST API skills are directly transferable",
+      "Location matches (Hà Nội)",
+      "Responsive design experience aligns with job duties",
+      "Experience with Component Architecture in React/Vue.js is transferable to Angular"
+    ],
+    "concerns": [
+      "No Angular experience - this is the primary framework required and represents a significant learning curve",
+      "Candidate's core skills (React, Vue.js) are not used in this role",
+      "Salary is negotiable - no clear visibility on whether it matches the 15-30 triệu target",
+      "Angular's opinionated architecture (RxJS, DI, decorators) differs substantially from React/Vue.js patterns",
+      "AI Coding tools (Kiro, Claude Code) and AI Design-to-Code experience not mentioned"
+    ],
+    "analyzedAt": 1783665930801
+  },
+  {
+    "jobId": "2229717",
+    "source": "topcv",
+    "title": "Fullstack Java Lead (Java+Angular)",
+    "company": "CÔNG TY CỔ PHẦN TƯ VẤN CÔNG NGHỆ NGS",
+    "wage": "Thoả thuận",
+    "experience": "5 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/fullstack-java-lead-java-angular/2229717.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783664069",
+    "matchPercentage": 18,
+    "summary": "This job is a poor match as it requires a senior Java backend lead with 5+ years of experience, while the candidate is a junior/mid-level frontend developer with React/Vue.js expertise and only 2 years of experience.",
+    "strengths": [
+      "Location matches - both in Hà Nội",
+      "Candidate has Git experience which is one requirement",
+      "Candidate has REST API experience which partially overlaps",
+      "Candidate has HTML/CSS/JavaScript skills as a basic requirement",
+      "CS/IT degree aligns with education requirement"
+    ],
+    "concerns": [
+      "No Java or Spring/Spring Boot experience listed - core requirement",
+      "Requires 5 years experience, candidate only has 2+ years",
+      "Role is backend-focused (Java lead) while candidate is frontend-focused",
+      "AngularJS is preferred but candidate uses React/Vue.js",
+      "No mention of Oracle database, ETL, or data processing experience",
+      "No mention of banking or enterprise system experience",
+      "No experience with Docker, Kafka, Redis, or message queues",
+      "No team lead experience despite requiring leadership skills",
+      "Technology stack mismatch is fundamental - not easily trainable gap"
+    ],
+    "analyzedAt": 1783665944173
+  }
+]

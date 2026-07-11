@@ -3,6 +3,9 @@ import cron from "node-cron";
 import { chromium } from "playwright-core";
 import config from "./config.js";
 import { formatTelegramMessage, sendMessage } from "./lib/telegram.js";
+import { startBot } from "./lib/telegram-bot.js";
+import { initAIQueue, enqueueJobs } from "./lib/ai-queue.js";
+import { readJsonFile } from "./lib/common.js";
 import init from "./scrapers/topcv.js";
 import initVietnam from "./scrapers/vietnamework.js";
 
@@ -10,6 +13,9 @@ const scraperMap = {
   topcv: init,
   vietnamwork: initVietnam,
 };
+
+// Khởi tạo AI Queue
+initAIQueue(config.cv, config.telegram);
 
 async function runPipeline() {
   const startTime = Date.now();
@@ -20,9 +26,20 @@ async function runPipeline() {
   try {
     browser = await chromium.connectOverCDP("http://localhost:9222");
   } catch (err) {
-    console.error(
-      "Không thể kết nối Chrome. Đảm bảo Chrome đang chạy với --remote-debugging-port=9222",
-    );
+    // Playwright crashes when Chrome has extensions (e.g. Tampermonkey) loaded,
+    // because extension service_worker targets don't have browserContextId.
+    if (err.message.includes("service_worker") || err.message.includes("targetInfo")) {
+      console.error(
+        "❌ Lỗi: Chrome đang chạy với extensions (ví dụ Tampermonkey).\n" +
+        "   Playwright không hỗ trợ extension service workers khi dùng connectOverCDP.\n" +
+        "   Hãy khởi động lại Chrome với flag --disable-extensions:\n" +
+        "   google-chrome --remote-debugging-port=9222 --user-data-dir=/home/do-huu-trung/chrome-auto --disable-extensions",
+      );
+    } else {
+      console.error(
+        "Không thể kết nối Chrome. Đảm bảo Chrome đang chạy với --remote-debugging-port=9222",
+      );
+    }
     console.error(err.message);
     return;
   }
@@ -42,6 +59,18 @@ async function runPipeline() {
       const result = await scraperHandler(browser, source);
       if (result) {
         totalNew.push(result);
+
+        // Đọc các job mới từ response file và đẩy vào AI queue
+        try {
+          const allJobs = await readJsonFile(source.response);
+          // Lấy các job chưa được phân tích AI (is_AI = false)
+          const unanalyzedJobs = allJobs.filter((j) => j.is_AI === false);
+          if (unanalyzedJobs.length > 0) {
+            enqueueJobs(unanalyzedJobs, source.name);
+          }
+        } catch (err) {
+          console.error(`Lỗi đọc response file ${source.name}:`, err.message);
+        }
       }
     }
   } finally {
@@ -81,5 +110,5 @@ if (config.scheduler.enabled) {
   );
 }
 
-// // Start Telegram bot
-// startBot(config.telegram);
+// Start Telegram bot
+startBot(config.telegram);

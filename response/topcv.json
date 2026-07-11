@@ -575,5 +575,230 @@
     ],
     "is_AI": false,
     "create_at": 1783613875460
+  },
+  {
+    "source": "topcv",
+    "id": "2232259",
+    "title": "Frontend Typescript (Angular)",
+    "company": "Công ty TNHH Giải pháp Phân tích dữ liệu Insight Data",
+    "wage": "Thoả thuận",
+    "experience": "1 năm",
+    "address": "- Hà Nội: Lê Ngọc Hân, phường Phạm Đình Hổ, quận Hai Bà Trưng, Phường Hai Bà Trưng (quận Hai Bà Trưng cũ)",
+    "label": "Thoả thuận, Hà Nội, 1 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/frontend-typescript-angular/2232259.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783663590",
+    "urlCompany": "https://www.topcv.vn/cong-ty/cong-ty-tnhh-giai-phap-phan-tich-du-lieu-insight-data/110386.html",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "items": [
+          "Phát triển giao diện người dùng bằng Angular.",
+          "Xây dựng UI theo kiến trúc Component và tái sử dụng.",
+          "Tích hợp RESTful API với hệ thống Backend.",
+          "Tối ưu hiệu năng, trải nghiệm người dùng và khả năng responsive.",
+          "Phối hợp với UI/UX, Backend và QA trong quá trình phát triển sản phẩm."
+        ]
+      },
+      {
+        "title": "Yêu cầu ứng viên",
+        "items": [
+          "Tối thiểu 1-3 năm kinh nghiệm phát triển Frontend.",
+          "Thành thạo Angular, TypeScript, HTML5 và CSS3.",
+          "Có kinh nghiệm phát triển theo Component Architecture.",
+          "Có kinh nghiệm tích hợp RESTful API.",
+          "Biết sử dụng AI Coding (Kiro, Claude Code...) và AI Design-to-Code (Figma Design Spec...) là lợi thế."
+        ]
+      },
+      {
+        "title": "Quyền lợi",
+        "items": [
+          "Mức lương cạnh tranh",
+          "Lương tháng 13",
+          "Hỗ trợ đầy đủ trang thiết bị làm việc PC/ Laptop….",
+          "Đóng bảo hiểm theo luật lao động Việt Nam (BHXH, BHYT, BHTN)",
+          "12 ngày phép/ năm và Thưởng vào các dịp lễ khác trong năm (1/1, 30/4-1/5; 2/9, 8/3, 20/10...), Sinh nhật; Chi phí công đoàn thăm hỏi vào các dịp hiếu, hỉ, ốm đau;",
+          "Làm việc từ thứ 2 đến thứ 6 và hai thứ 7 cách tuần",
+          "Phụ cấp gửi xe; Phụ cấp cơm trưa, ngoài ra phụ cấp điện thoại và đi lại tùy thuộc vào một số vị trí và cấp bậc;",
+          "Khám sức khỏe định kỳ 1 lần/năm",
+          "Du lịch nghỉ mát 1 lần/ năm.",
+          "Tổ chức teambuilding định kỳ, tổ chức sinh nhật, team lunch, …",
+          "Happy hours hàng tháng, free snacks, hoa quả, đồ uống.",
+          "Được đào tạo và trau dồi không chỉ kiến thức chuyên môn, kỹ năng mềm mà cả kỹ năng quản lý nhóm, quản lý dự án thông qua các buổi đào tạo nội bộ chung do phòng Đào tạo tổ chức hoặc các buổi đào tạo của riêng phòng ban;",
+          "Môi trường làm việc chuyên nghiệp, trẻ trung, năng động, nhiều cơ hội thăng tiến",
+          "Đội ngũ kỹ sư, nhân viên tài năng, giàu kinh nghiệm",
+          "Làm việc với tác đối tác lớn",
+          "Cơ hội phát triển:",
+          "Làm việc trong lĩnh vực Banking cùng các chuyên gia trong và ngoài nước",
+          "Được tham gia các khóa đào tạo về chuyên môn theo nhu cầu",
+          "Cùng nghiên cứu và thử thách với những công nghệ mới và các hot tech trend trên thế giới thông qua các buổi training hoặc các cuộc thi nội bộ và có phần thưởng cho các cuộc thi này",
+          "Được tham gia các chương trình training về kỹ năng công nghệ và kỹ năng mềm, phương pháp làm việc",
+          "Được tư vấn và chia sẻ về phát triển năng lực và nghề nghiệp bản thân."
+        ]
+      },
+      {
+        "title": "Thời gian làm việc",
+        "items": [
+          "Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",
+          "Làm việc từ thứ 2 - thứ 6"
+        ]
+      }
+    ],
+    "is_AI": false,
+    "create_at": 1783663597196
+  },
+  {
+    "source": "topcv",
+    "id": "2229717",
+    "title": "Fullstack Java Lead (Java+Angular)",
+    "company": "CÔNG TY CỔ PHẦN TƯ VẤN CÔNG NGHỆ NGS",
+    "wage": "Thoả thuận",
+    "experience": "5 năm",
+    "address": "- Hà Nội: 6th Element Nguyễn Văn Huyên, Phường Nghĩa Đô (quận Bắc Từ Liêm, quận Cầu Giấy cũ)",
+    "label": "Thoả thuận, Hà Nội, 5 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/fullstack-java-lead-java-angular/2229717.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783664069",
+    "urlCompany": "https://www.topcv.vn/cong-ty/cong-ty-co-phan-tu-van-cong-nghe-ngs/72435.html",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "items": [
+          "Phát triển hệ thống phần mềm: Tham gia phát triển, bảo trì và nâng cấp các hệ thống phần mềm, hệ thống thu thập dữ liệu và xử lý dữ liệu lớn của công ty và đối tác ngân hàng.",
+          "Xây dựng Backend API: Thiết kế và xây dựng các API RESTful/SOAP chất lượng cao, đảm bảo hiệu năng và tính bảo mật ổn định cho hệ thống backend.",
+          "Tối ưu hiệu năng & Xử lý dữ liệu: Nâng cao hiệu suất xử lý dữ liệu (ETL, Batch Job, Scheduler) và quản trị, tối ưu cơ sở dữ liệu Oracle.",
+          "Quản trị và điều phối team kỹ thuật",
+          "Các nhiệm vụ khác theo yêu cầu của lãnh đạo."
+        ]
+      },
+      {
+        "title": "Yêu cầu ứng viên",
+        "items": [
+          "Tốt nghiệp Đại học các chuyên ngành về CNTT, IT phần mềm, dữ liệu, ....",
+          "Sử dụng được tiếng Anh trong công việc là lợi thế.",
+          "1, Kỹ năng chuyên môn",
+          "Từ 5 năm kinh nghiệm phát triển phần mềm sử dụng Java.",
+          "Thành thạo Java, framework Spring/Spring Boot/Spring Batch.",
+          "Có kinh nghiệm làm việc với các thành phần backend phổ biến như Spring MVC, Spring Security, Spring Data/JPA, RESTful API, SOAP Web Service.",
+          "Thành thạo HTML, CSS, JavaScript cơ bản; có khả năng phối hợp xử lý các yêu cầu liên quan đến giao diện khi cần thiết. Ưu tiên ứng viên có kinh nghiệm làm AngularJS.",
+          "Thành thạo SQL và có hiểu biết sâu sắc về cơ sở dữ liệu quan hệ.",
+          "Có kinh nghiệm xây dựng hệ thống backend API RESTful/SOAP, đảm bảo hiệu năng, tính ổn định và an toàn bảo mật.",
+          "Ưu tiên ứng viên:Có kinh nghiệm làm việc với Batch Job, Scheduler, ETL hoặc các tiến trình xử lý dữ liệu định kỳ. Có hiểu biết về Git, Maven/Gradle hoặc các công cụ quản lý mã nguồn, build và triển khai phần mềm.Hiểu biết về Linux, Docker, Redis, Kafka/RabbitMQ hoặc các nền tảng triển khai, cache và messaging là một lợi thế.Có kinh nghiệm viết và tối ưu hóa stored procedure, function, package, query xử lý dữ liệu lớn trên hệ quản trị cơ sở dữ liệu Oracle.Có kinh nghiệm thực tế tại các dự án ngân hàng hoặc các hệ thống thu thập dữ liệu.Có kinh nghiệm làm việc với hệ thống ETL, Data Warehouse, DataLake.",
+          "Có kinh nghiệm làm việc với Batch Job, Scheduler, ETL hoặc các tiến trình xử lý dữ liệu định kỳ.",
+          "Có hiểu biết về Git, Maven/Gradle hoặc các công cụ quản lý mã nguồn, build và triển khai phần mềm.",
+          "Hiểu biết về Linux, Docker, Redis, Kafka/RabbitMQ hoặc các nền tảng triển khai, cache và messaging là một lợi thế.",
+          "Có kinh nghiệm viết và tối ưu hóa stored procedure, function, package, query xử lý dữ liệu lớn trên hệ quản trị cơ sở dữ liệu Oracle.",
+          "Có kinh nghiệm thực tế tại các dự án ngân hàng hoặc các hệ thống thu thập dữ liệu.",
+          "Có kinh nghiệm làm việc với hệ thống ETL, Data Warehouse, DataLake.",
+          "2. Kỹ năng làm việc",
+          "Có khả năng phân tích yêu cầu bài toán công nghệ tốt.",
+          "Có khả năng tư duy độc lập, tư duy logic và xử lý vấn đề hiệu quả.",
+          "Có tinh thần trách nhiệm cao, chủ động trong công việc, chịu được áp lực và sẵn sàng học hỏi công nghệ mới.",
+          "Có kinh nghiệm lead team là một lợi thế",
+          "Có thể phối hợp làm việc nhóm hiệu quả, giao tiếp rõ ràng và hỗ trợ các thành viên liên quan trong quá trình triển khai dự án.",
+          "Có tinh thần tuân thủ quy trình phát triển phần mềm, đảm bảo chất lượng mã nguồn, tài liệu kỹ thuật và tiến độ công việc."
+        ]
+      },
+      {
+        "title": "Quyền lợi",
+        "items": [
+          "Mức lương cạnh tranh theo năng lực",
+          "Lương tháng thứ 13, thưởng lễ tết, thưởng hiệu quả kinh doanh theo quy định và theo kết quả kinh doanh của Công ty.",
+          "Được tham gia đào tạo nghiệp vụ theo yêu cầu công việc, hỗ trợ thi chứng chỉ chuyên môn.",
+          "Tham gia các khóa đào tạo kỹ năng mềm phục vụ cho công việc và định hướng Carrer Path rõ ràng",
+          "Review lương định kỳ hằng năm.",
+          "OT theo quy định của pháp luật",
+          "Chế độ bảo hiểm xã hội đầy đủ theo quy định của Luật.",
+          "Gói bảo hiểm chăm sóc sức khỏe toàn diện cho CBNV",
+          "Khám sức khỏe định kỳ hàng năm.",
+          "Phúc lợi sinh nhật (ngày nghỉ + Tiền mặt)",
+          "Tham gia các chương trình Teambuilding, Du lịch hàng năm",
+          "Tham gia các chương trình Sinh nhật, Noel, Year End Party...",
+          "Nhiều chế độ đãi ngộ khác,..."
+        ]
+      },
+      {
+        "title": "Thời gian làm việc",
+        "items": [
+          "Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)"
+        ]
+      }
+    ],
+    "is_AI": false,
+    "create_at": 1783664077077
+  },
+  {
+    "source": "topcv",
+    "id": "2229717",
+    "title": "Fullstack Java Lead (Java+Angular)",
+    "company": "CÔNG TY CỔ PHẦN TƯ VẤN CÔNG NGHỆ NGS",
+    "wage": "Thoả thuận",
+    "experience": "5 năm",
+    "address": "- Hà Nội: 6th Element Nguyễn Văn Huyên, Phường Nghĩa Đô (quận Bắc Từ Liêm, quận Cầu Giấy cũ)",
+    "label": "Thoả thuận, Hà Nội, 5 năm",
+    "urlDetail": "https://www.topcv.vn/viec-lam/fullstack-java-lead-java-angular/2229717.html?ta_source=JobSearchList_LinkDetail&u_sr_id=NRbk5JLAaGT4nKJJadQ47U5Cb1OMiYn11kbyxA0G_1783665805",
+    "urlCompany": "https://www.topcv.vn/cong-ty/cong-ty-co-phan-tu-van-cong-nghe-ngs/72435.html",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "items": [
+          "Phát triển hệ thống phần mềm: Tham gia phát triển, bảo trì và nâng cấp các hệ thống phần mềm, hệ thống thu thập dữ liệu và xử lý dữ liệu lớn của công ty và đối tác ngân hàng.",
+          "Xây dựng Backend API: Thiết kế và xây dựng các API RESTful/SOAP chất lượng cao, đảm bảo hiệu năng và tính bảo mật ổn định cho hệ thống backend.",
+          "Tối ưu hiệu năng & Xử lý dữ liệu: Nâng cao hiệu suất xử lý dữ liệu (ETL, Batch Job, Scheduler) và quản trị, tối ưu cơ sở dữ liệu Oracle.",
+          "Quản trị và điều phối team kỹ thuật",
+          "Các nhiệm vụ khác theo yêu cầu của lãnh đạo."
+        ]
+      },
+      {
+        "title": "Yêu cầu ứng viên",
+        "items": [
+          "Tốt nghiệp Đại học các chuyên ngành về CNTT, IT phần mềm, dữ liệu, ....",
+          "Sử dụng được tiếng Anh trong công việc là lợi thế.",
+          "1, Kỹ năng chuyên môn",
+          "Từ 5 năm kinh nghiệm phát triển phần mềm sử dụng Java.",
+          "Thành thạo Java, framework Spring/Spring Boot/Spring Batch.",
+          "Có kinh nghiệm làm việc với các thành phần backend phổ biến như Spring MVC, Spring Security, Spring Data/JPA, RESTful API, SOAP Web Service.",
+          "Thành thạo HTML, CSS, JavaScript cơ bản; có khả năng phối hợp xử lý các yêu cầu liên quan đến giao diện khi cần thiết. Ưu tiên ứng viên có kinh nghiệm làm AngularJS.",
+          "Thành thạo SQL và có hiểu biết sâu sắc về cơ sở dữ liệu quan hệ.",
+          "Có kinh nghiệm xây dựng hệ thống backend API RESTful/SOAP, đảm bảo hiệu năng, tính ổn định và an toàn bảo mật.",
+          "Ưu tiên ứng viên:Có kinh nghiệm làm việc với Batch Job, Scheduler, ETL hoặc các tiến trình xử lý dữ liệu định kỳ. Có hiểu biết về Git, Maven/Gradle hoặc các công cụ quản lý mã nguồn, build và triển khai phần mềm.Hiểu biết về Linux, Docker, Redis, Kafka/RabbitMQ hoặc các nền tảng triển khai, cache và messaging là một lợi thế.Có kinh nghiệm viết và tối ưu hóa stored procedure, function, package, query xử lý dữ liệu lớn trên hệ quản trị cơ sở dữ liệu Oracle.Có kinh nghiệm thực tế tại các dự án ngân hàng hoặc các hệ thống thu thập dữ liệu.Có kinh nghiệm làm việc với hệ thống ETL, Data Warehouse, DataLake.",
+          "Có kinh nghiệm làm việc với Batch Job, Scheduler, ETL hoặc các tiến trình xử lý dữ liệu định kỳ.",
+          "Có hiểu biết về Git, Maven/Gradle hoặc các công cụ quản lý mã nguồn, build và triển khai phần mềm.",
+          "Hiểu biết về Linux, Docker, Redis, Kafka/RabbitMQ hoặc các nền tảng triển khai, cache và messaging là một lợi thế.",
+          "Có kinh nghiệm viết và tối ưu hóa stored procedure, function, package, query xử lý dữ liệu lớn trên hệ quản trị cơ sở dữ liệu Oracle.",
+          "Có kinh nghiệm thực tế tại các dự án ngân hàng hoặc các hệ thống thu thập dữ liệu.",
+          "Có kinh nghiệm làm việc với hệ thống ETL, Data Warehouse, DataLake.",
+          "2. Kỹ năng làm việc",
+          "Có khả năng phân tích yêu cầu bài toán công nghệ tốt.",
+          "Có khả năng tư duy độc lập, tư duy logic và xử lý vấn đề hiệu quả.",
+          "Có tinh thần trách nhiệm cao, chủ động trong công việc, chịu được áp lực và sẵn sàng học hỏi công nghệ mới.",
+          "Có kinh nghiệm lead team là một lợi thế",
+          "Có thể phối hợp làm việc nhóm hiệu quả, giao tiếp rõ ràng và hỗ trợ các thành viên liên quan trong quá trình triển khai dự án.",
+          "Có tinh thần tuân thủ quy trình phát triển phần mềm, đảm bảo chất lượng mã nguồn, tài liệu kỹ thuật và tiến độ công việc."
+        ]
+      },
+      {
+        "title": "Quyền lợi",
+        "items": [
+          "Mức lương cạnh tranh theo năng lực",
+          "Lương tháng thứ 13, thưởng lễ tết, thưởng hiệu quả kinh doanh theo quy định và theo kết quả kinh doanh của Công ty.",
+          "Được tham gia đào tạo nghiệp vụ theo yêu cầu công việc, hỗ trợ thi chứng chỉ chuyên môn.",
+          "Tham gia các khóa đào tạo kỹ năng mềm phục vụ cho công việc và định hướng Carrer Path rõ ràng",
+          "Review lương định kỳ hằng năm.",
+          "OT theo quy định của pháp luật",
+          "Chế độ bảo hiểm xã hội đầy đủ theo quy định của Luật.",
+          "Gói bảo hiểm chăm sóc sức khỏe toàn diện cho CBNV",
+          "Khám sức khỏe định kỳ hàng năm.",
+          "Phúc lợi sinh nhật (ngày nghỉ + Tiền mặt)",
+          "Tham gia các chương trình Teambuilding, Du lịch hàng năm",
+          "Tham gia các chương trình Sinh nhật, Noel, Year End Party...",
+          "Nhiều chế độ đãi ngộ khác,..."
+        ]
+      },
+      {
+        "title": "Thời gian làm việc",
+        "items": [
+          "Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)"
+        ]
+      }
+    ],
+    "is_AI": false,
+    "create_at": 1783665812515
   }
 ]

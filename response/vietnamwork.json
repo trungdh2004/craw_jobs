@@ -1564,5 +1564,486 @@
     "urlCompany": "",
     "is_AI": false,
     "create_at": 1783613985191
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$26"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "Key selection criteria •\\tDemonstrated commitment to Blue Dragon values. •\\tFluency in both Vietnamese and English. •\\tQualifications and at least 5-year experience in office administration, procurement, or relevant field. •\\tHighly organised with an eye for details, able to prioritise work, work under pressure and manage a high workload. •\\tDemonstrated experience in administration, procurement and policy or guideline development. •\\tWillingness to work flexibly, including out of hours and on weekends when required. •\\tExcellent computer skills: Microsoft Word, Excel, emails and database management. •\\tExcellent interpersonal and communication skills. •\\tHighly responsible, reliable and proactive. •\\tAble to work as part of a multidisciplinary team. •\\tWillingness to learn and develop."
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Yoga, Zumba, well-being activities\\u003cbr/\\u003eHealth check every year\\u003cbr/\\u003eSelf-care and Wellbeing supports,Friendly and equally working environment\\u003cbr/\\u003e14 annual leave days per years\\u003cbr/\\u003e16 annual leave days per years (who worked for more than 5 years)\\u003cbr/\\u003eSick leave full paid\\u003cbr/\\u003e13 National days off \\u003cbr/\\u003eOutstanding leave entitlements,Training opportunities"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "English",
+            "id": 100
+          },
+          {
+            "name": "Guideline Development",
+            "id": 641182
+          },
+          {
+            "name": "Office Administration",
+            "id": 21719
+          },
+          {
+            "name": "Procurement",
+            "id": 3064
+          },
+          {
+            "name": "Translation",
+            "id": 4267
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2074871,
+    "title": "Support Services Officer/ Admin and Procurement Officer",
+    "company": "Blue Dragon Children's Foundation",
+    "wage": "Thương lượng",
+    "experience": "Nhân viên",
+    "address": "Ha Noi, Vietnam",
+    "urlDetail": "https://www.vietnamworks.com/support-services-officer-admin-and-procurement-officer-2074871-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665596598
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "1. Phát triển, tối ưu và bảo trì giao diện web/app trên nền tảng React.js và Next.js, đảm bảo hiệu năng, khả năng mở rộng và trải nghiệm người dùng tốt. 2. Chuyển đổi thiết kế UI/UX, wireframe và yêu cầu nghiệp vụ thành các component, page và luồng tương tác hoàn chỉnh. 3. Xây dựng component tái sử dụng, quản lý state, routing, form, validation và tích hợp API theo chuẩn kỹ thuật của dự án. 4. Phối hợp với Backend Developer, BA, QA, PM và UI/UX Designer để làm rõ yêu cầu, xử lý lỗi và bàn giao tính năng đúng tiến độ. 5. Tham gia thiết kế cấu trúc frontend, chuẩn hóa coding convention, review code và cải thiện chất lượng mã nguồn. 6. Tối ưu hiệu năng frontend, accessibility, responsive design và khả năng tương thích trên nhiều trình duyệt/thiết bị. 7. Hỗ trợ triển khai, theo dõi lỗi sau go-live và đề xuất cải tiến kỹ thuật cho các sản phẩm số của Ban Công nghệ & CĐS."
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "$26"
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Thưởng vào các dịp lễ, tết, cuối năm,BHSK cá nhân + Khám sức khỏe định kỳ,Nhiều khóa đào tạo kỹ năng, kiến thức phục vụ cho công việc và phát triển bản thân"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "Git",
+            "id": 1470
+          },
+          {
+            "name": "HTML",
+            "id": 508
+          },
+          {
+            "name": "Lập Trình Frontend",
+            "id": 680052
+          },
+          {
+            "name": "React JS",
+            "id": 1014930
+          },
+          {
+            "name": "Next JS",
+            "id": 1070315
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2061006,
+    "title": "Lập Trình Viên Frontend Mid-Level (React.js/ Next.js)",
+    "company": "CÔNG TY CỔ PHẦN CAPELLA GROUP",
+    "wage": "Thương lượng",
+    "experience": "Nhân viên",
+    "address": "Chung cư Samsora Premier 105 Chu Văn An, 105 Chu Văn An, Yết Kiêu, Hà Đông, Hà Nội, Việt Nam",
+    "urlDetail": "https://www.vietnamworks.com/lap-trinh-vien-frontend-mid-level-react-js-next-js-2061006-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665596589
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$29"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "•\\tSinh viên năm 3, năm 4 hoặc mới tốt nghiệp các ngành: CNTT, Marketing, Truyền thông hoặc các ngành liên quan •\\tCó kiến thức cơ bản về HTML/CSS (lợi thế) •\\tCó hiểu biết về WordPress (lợi thế) •\\tBiết sử dụng ChatGPT, Gemini hoặc các công cụ AI trong công việc •\\tTư duy logic, ham học hỏi, chủ động trong công việc •\\tCó khả năng tự tìm hiểu và giải quyết vấn đề ***Không yêu cầu kinh nghiệm – Chúng tôi tìm kiếm thái độ và tiềm năng! QUYỀN LỢI: •\\tTrợ cấp thực tập: 5 triệu/tháng hoặc thỏa thuận •\\tĐược đào tạo thực tế về SEO, Web, AI Tools và Automation •\\tMôi trường làm việc linh hoạt, thoải mái •\\tCơ hội trở thành nhân sự chính thức sau thực tập •\\tĐược cấp giấy xác nhận thực tập và nhận xét chi tiết"
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Trợ cấp 5.000.000 VND/ tháng,Được trải nghiệm môi trường tài chính công nghệ với mô hình Agile/Scrum, văn phòng hiện đại chuẩn 5S,Được thực tập và đào tạo các nghiệp vụ liên quan đến Marketing"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "AI tools",
+            "id": 1037845
+          },
+          {
+            "name": "Workflow Automation",
+            "id": 585851
+          },
+          {
+            "name": "Digital Marketing",
+            "id": 298
+          },
+          {
+            "name": "SEO Techniques",
+            "id": 1110014
+          },
+          {
+            "name": "Html",
+            "id": 1438366
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2074491,
+    "title": "Thực Tập Sinh – Hỗ Trợ Kỹ Thuật Web & Tự Động Hóa",
+    "company": "Techcom Securities (Tcbs)",
+    "wage": "Từ 5tr ₫/tháng",
+    "experience": "Thực tập sinh/Sinh viên",
+    "address": "6 Quang Trung, Cửa Nam, Hà Nội",
+    "urlDetail": "https://www.vietnamworks.com/thuc-tap-sinh-ho-tro-ky-thuat-web-tu-dong-hoa--2074491-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665596599
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$2a"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "$2b"
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Lương tháng 13 với thưởng hiệu suất hàng năm, thưởng dự án, thưởng doanh số (tùy theo vị trí),Y tế: Bảo hiểm xã hội, bảo hiểm cao cấp,Phép năm: Lên đến 20 ngày/năm (tùy theo cấp bậc),Được công nhận và khen thưởng ở cấp độ đội nhóm và tổ chức,Được cấp laptop, màn hình và các thiết bị/tài khoản/công cụ cần thiết khác cho công việc,Teambuilding hàng quý/hàng năm và các sự kiện nội bộ hấp dẫn.,Không gian làm việc mở và hợp tác thúc đẩy cả sự tập trung cá nhân và các hoạt động làm việc nhóm"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "Cloud",
+            "id": 22172
+          },
+          {
+            "name": "Front End",
+            "id": 478
+          },
+          {
+            "name": "React",
+            "id": 165168
+          },
+          {
+            "name": "Rust Programming",
+            "id": 824724
+          },
+          {
+            "name": "TypeScript",
+            "id": 1026028
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2073757,
+    "title": "(HN) Lead Front-End Engineer",
+    "company": "One Mount",
+    "wage": "Thương lượng",
+    "experience": "Nhân viên",
+    "address": "Hanoi, Vietnam",
+    "urlDetail": "https://www.vietnamworks.com/-hn-lead-front-end-engineer-2073757-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665596596
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$27"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "$28"
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Yoga, Zumba, well-being activities\\u003cbr/\\u003eHealth check every year\\u003cbr/\\u003eSelf-care and Wellbeing supports,Friendly and equally working environment\\u003cbr/\\u003e14 annual leave days per years\\u003cbr/\\u003e16 annual leave days per years (who worked for more than 5 years)\\u003cbr/\\u003eSick leave full paid\\u003cbr/\\u003e13 National days off \\u003cbr/\\u003eOutstanding leave entitlements,Training opportunities"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "Business Administration",
+            "id": 744
+          },
+          {
+            "name": "Culture Development",
+            "id": 912212
+          },
+          {
+            "name": "English",
+            "id": 100
+          },
+          {
+            "name": "HRM System",
+            "id": 1095734
+          },
+          {
+            "name": "Human Resources",
+            "id": 3422
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2072052,
+    "title": "People and Culture Officer (HR Officer)",
+    "company": "Blue Dragon Children's Foundation",
+    "wage": "Thương lượng",
+    "experience": "Nhân viên",
+    "address": "Ha Noi, Vietnam",
+    "urlDetail": "https://www.vietnamworks.com/people-and-culture-officer-hr-officer-2072052-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665596624
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$27"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "$28"
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Lương, thưởng cạnh tranh + phúc lợi đầy đủ,Cơ hội đi công tác nước ngoài, đào tạo chuyên môn, tham gia hội thảo,Môi trường trẻ trung, năng động, học hỏi cực nhanh"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "Database Development",
+            "id": 12994
+          },
+          {
+            "name": "Java Spring Boot",
+            "id": 716229
+          },
+          {
+            "name": "Distributed Systems",
+            "id": 36988
+          },
+          {
+            "name": "Microservices",
+            "id": 519901
+          },
+          {
+            "name": "Fullstack Thinking",
+            "id": 1601880
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2055269,
+    "title": "Senior Backend Engineer (Fullstack: Cloud, Backend, Frontend, Edge Device)",
+    "company": "CÔNG TY CỔ PHẦN VINSPACE",
+    "wage": "Thương lượng",
+    "experience": "Nhân viên",
+    "address": "Tòa Technopark, Ocean Park 1, Gia Lâm, Hà Nội",
+    "urlDetail": "https://www.vietnamworks.com/senior-backend-engineer-fullstack-cloud-backend-frontend-edge-device-2055269-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665596595
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$26"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "Key selection criteria Essential •\\tExcellent written and verbal communications skills in English and Vietnamese. •\\tAt least 5 years' experience in fundraising, sales, communications, marketing, or a related field. •\\tA passion for fundraising and development. •\\tA track record of writing for a range of audiences, formal and informal. •\\tA servant leadership mindset. •\\tAn analytical mind with an openness to new ideas and innovations. •\\tA high level of organisation and attention to detail. •\\tAbility to work to deadlines in a fast-paced environment. •\\tCommitment to child protection and safeguarding and Blue Dragon’s values. Desirable but not essential • Experience working in an NGO environment."
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Yoga, Zumba, self-care activities\\u003cbr/\\u003eHealth check every year,Friendly and equally working environment\\u003cbr/\\u003e14 annual leave days per years\\u003cbr/\\u003e16 annual leave days per years (who worked for more than 5 years)\\u003cbr/\\u003eSick leave full paid\\u003cbr/\\u003eOutstanding leave entitlements,Training opportunities"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "NGO",
+            "id": 1017352
+          },
+          {
+            "name": "NGO",
+            "id": 1123591
+          },
+          {
+            "name": "Truyền Thông Gây Quỹ",
+            "id": 729456
+          },
+          {
+            "name": "Communications",
+            "id": 991365
+          },
+          {
+            "name": "Communications",
+            "id": 1014215
+          },
+          {
+            "name": "Communications",
+            "id": 1016350
+          },
+          {
+            "name": "Communications",
+            "id": 1030600
+          },
+          {
+            "name": "Fundraising",
+            "id": 8194
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2070081,
+    "title": "Senior Fundraiser",
+    "company": "Blue Dragon Children's Foundation",
+    "wage": "Thương lượng",
+    "experience": "Nhân viên",
+    "address": "Ha Noi, Vietnam",
+    "urlDetail": "https://www.vietnamworks.com/senior-fundraiser-2070081-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665596593
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$2a"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "$2b"
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Thu nhập 200-500 triệu/năm. Thưởng các ngày lễ, tết, thành lập ngành....,Đầy đủ các chế độ BHXH, BHYT, BHTN. Khám sức khỏe định kỳ hàng năm,12++ ngày phép/năm, ngày phép tăng theo thâm niên làm việc,Phát triển không giới hạn: Đào tạo liên tục, mentorship từ chuyên gia đầu ngành,Du lịch, nghỉ mát hàng năm,Căng tin phục vụ ăn sáng, ăn trưa, cafe....Phụ cấp ăn trưa 730k/tháng,Dự án quy mô quốc gia: Tham gia phát triển chính phủ số, thành phố thông minh..."
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "JSP",
+            "id": 2972
+          },
+          {
+            "name": "HTML",
+            "id": 508
+          },
+          {
+            "name": "Spring Framework",
+            "id": 1017242
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2075128,
+    "title": "Lập Trình Viên Java",
+    "company": "Tập Đoàn Bưu Chính Viễn Thông Việt Nam (VNPT)",
+    "wage": "200tr-500tr ₫/năm",
+    "experience": "Nhân viên",
+    "address": "57 Phố Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội, Việt Nam",
+    "urlDetail": "https://www.vietnamworks.com/lap-trinh-vien-java--2075128-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665784751
+  },
+  {
+    "deadline": "",
+    "description": [
+      {
+        "title": "Mô tả công việc",
+        "content": "$26"
+      },
+      {
+        "title": "Yêu cầu công việc",
+        "content": "Key selection criteria •\\tDemonstrated commitment to Blue Dragon values. •\\tFluency in both Vietnamese and English. •\\tQualifications and at least 5-year experience in office administration, procurement, or relevant field. •\\tHighly organised with an eye for details, able to prioritise work, work under pressure and manage a high workload. •\\tDemonstrated experience in administration, procurement and policy or guideline development. •\\tWillingness to work flexibly, including out of hours and on weekends when required. •\\tExcellent computer skills: Microsoft Word, Excel, emails and database management. •\\tExcellent interpersonal and communication skills. •\\tHighly responsible, reliable and proactive. •\\tAble to work as part of a multidisciplinary team. •\\tWillingness to learn and develop."
+      },
+      {
+        "title": "Quyền lợi",
+        "content": "Yoga, Zumba, well-being activities\\u003cbr/\\u003eHealth check every year\\u003cbr/\\u003eSelf-care and Wellbeing supports,Friendly and equally working environment\\u003cbr/\\u003e14 annual leave days per years\\u003cbr/\\u003e16 annual leave days per years (who worked for more than 5 years)\\u003cbr/\\u003eSick leave full paid\\u003cbr/\\u003e13 National days off \\u003cbr/\\u003eOutstanding leave entitlements,Training opportunities"
+      },
+      {
+        "title": "Kỹ năng",
+        "content": [
+          {
+            "name": "English",
+            "id": 100
+          },
+          {
+            "name": "Guideline Development",
+            "id": 641182
+          },
+          {
+            "name": "Office Administration",
+            "id": 21719
+          },
+          {
+            "name": "Procurement",
+            "id": 3064
+          },
+          {
+            "name": "Translation",
+            "id": 4267
+          }
+        ]
+      }
+    ],
+    "source": "vietnamwork",
+    "id": 2074871,
+    "title": "Support Services Officer/ Admin and Procurement Officer",
+    "company": "Blue Dragon Children's Foundation",
+    "wage": "Thương lượng",
+    "experience": "Nhân viên",
+    "address": "Ha Noi, Vietnam",
+    "urlDetail": "https://www.vietnamworks.com/support-services-officer-admin-and-procurement-officer-2074871-jv",
+    "urlCompany": "",
+    "is_AI": false,
+    "create_at": 1783665785221
   }
 ]
